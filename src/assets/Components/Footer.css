@@ -1,0 +1,43 @@
+.footer
+{
+    background-color:#00B1AA;
+    height: 150px;
+    margin:10px 10px;
+    margin-top:10px;
+    border-radius : 25px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.right
+{
+    display: flex;
+}
+h1{
+    padding: 5px  20px ;
+    border-radius: 8px;
+    border-color:aqua;
+}
+footer{
+    display:flex;
+    justify-content:space-around;
+    
+}
+.Col1{
+    display: flex;
+    padding-bottom : 10px;
+    gap: 15px;
+}
+.Col2
+{
+    display:flex;
+    gap:20px;
+    padding: auto;
+}
+.Col3
+{
+    display:flex;
+}
+ul>li{
+    list-style: none;
+}

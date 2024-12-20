@@ -1,0 +1,23 @@
+{
+  "StudentProfile": [
+    {
+      "Name": "K.Yasaswini",
+      "gender": "Female",
+      "id": "6d51"
+    },
+    {
+      "id": "acf1",
+      "Name": "Yasaswini Korrapati",
+      "gender": "Male"
+    },
+    {
+      "id": "1006"
+    },
+    {
+      "id": "864e",
+      "Name": "Yasaswini Korrapati",
+      "gender": "Male",
+      "Qualification": "btech"
+    }
+  ]
+}
